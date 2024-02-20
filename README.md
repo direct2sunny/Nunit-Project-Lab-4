@@ -1,3 +1,4 @@
 **Lab 4 Software Testing methodologies**
 
-![Lab 4](https://github.com/direct2sunny/Nunit-Project-Lab-2/assets/156108180/cb56ed9b-cd69-4a06-9bde-a4fa1d64cf18)
+![Nunit Project Lab 4](https://github.com/direct2sunny/Nunit-Project-Lab-4/assets/156108180/2e8f8db8-4f12-465f-acbb-1af3a00fcd91)
+
